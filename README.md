@@ -56,4 +56,4 @@ ATM Performance Table: Detailed metrics like uptime %, average transactions, and
 ⚡ This project highlights advanced Power BI skills including dynamic filters, time intelligence functions, advanced KPIs, and optimized data modeling to deliver actionable business insights.
 
 6. Screenshots / Demos
-Show what the dashboard looks like 
+Show what the dashboard looks like https://github.com/surajmishra9867/ATM-Dashboard/commit/bf14cd7394e373c7e8e49123b8c25f7de3e4a76d
